@@ -33,9 +33,7 @@ class Graph {
             System.out.println();
         }
     }
-}
 
-public class Main {
     public static void main(String[] args) {
         Graph graph = new Graph(5); // 5개의 정점을 가진 그래프 생성
 
